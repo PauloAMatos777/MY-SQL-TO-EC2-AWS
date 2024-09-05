@@ -1,0 +1,1 @@
+****************** SCRIPT PARA CRIAÇÃO DE UM SERVIDOR MYSQL EM UMA INSTANCIA EC2 DA AWS ******************
